@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Portfolio of Ehsanur Rauf Prince"
+title                    : "Ehsanur Rauf Prince"
 title_separator          : "-"
-name                     : &name "Portfolio of Ehsanur Rauf Prince"
+name                     : &name "Ehsanur Rauf Prince"
 description              : &description "Academician"
 url                      : https://ehsanurrauf.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "ehsanurrauf/ehsanurrauf.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ehsanur Rauf Prince"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
