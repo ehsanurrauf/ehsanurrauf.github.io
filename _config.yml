@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Ehsanur Rauf Prince"
   pronouns         : # example: "she/her"  
-  bio              : "Senior Lecture in Economics\\ East West University"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  bio              : "Senior Lecture in Economics, East West University, Bangladesh"
+  location         : "Bangladesh"
+  employer         : "East West University"
+  uri              : "https://fbe.ewubd.edu/economics-department/faculty-view/ehsanur"
   email            : "none@example.org" 
 
   # Academic websites
