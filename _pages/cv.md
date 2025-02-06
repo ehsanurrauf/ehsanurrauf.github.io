@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Master of Social Science in Economics, [East West University](https://www.ewubd.edu/), 2016 
-* Bachelor of Social Science in Economics, [East West University](https://www.ewubd.edu/), 2014
+* Master of Social Science in Economics, [East West University](https://www.ewubd.edu/)
+* Bachelor of Social Science in Economics, [East West University](https://www.ewubd.edu/)
 
 Work experience
 ======
