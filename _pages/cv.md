@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV of Ehsanur Rauf Prince"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Social Science in Economics, East West University, 2016 
+* Bachelor of Social Science in Economics, East West University, 2014
 
 Work experience
 ======
