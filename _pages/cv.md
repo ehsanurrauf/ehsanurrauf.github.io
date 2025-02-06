@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV of Ehsanur Rauf Prince"
+#title: "CV of Ehsanur Rauf Prince"
 permalink: /cv/
 author_profile: true
 redirect_from:
