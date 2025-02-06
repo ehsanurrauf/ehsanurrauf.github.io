@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* Master of Social Science in Economics, East West University, 2016 
-* Bachelor of Social Science in Economics, East West University, 2014
+* Master of Social Science in Economics, [East West University](https://www.ewubd.edu/), 2016 
+* Bachelor of Social Science in Economics, [East West University](https://www.ewubd.edu/), 2014
 
 Work experience
 ======
 * Senior Lecturer, [East West University](https://www.ewubd.edu/) (2019-Present)
-* Senior Lecturer, Metropolitan University (2018-2019)
-* Lecturer, Metropolitan University (2017-2018)
-* Research Associate, Centre for Policy Dialogue, Bangladesh (2016)
-* Research Associate, Emerging Credit Rating Limited, Bangladesh (2015)
-* Research Assistant, Bangladesh Institute of Development Studies (2014)
-* Teaching Assistant, East West University (2012-2015)
+* Senior Lecturer, [Metropolitan University](https://metrouni.edu.bd/) (2018-2019)
+* Lecturer, [Metropolitan University](https://metrouni.edu.bd/) (2017-2018)
+* Research Associate, [Centre for Policy Dialogue](https://cpd.org.bd/), Bangladesh (2016)
+* Research Associate, [Emerging Credit Rating Limited](https://emergingrating.com/), Bangladesh (2015)
+* Research Assistant, [Bangladesh Institute of Development Studies](https://www.bids.org.bd/) (2014)
+* Teaching Assistant, [East West University](https://www.ewubd.edu/) (2012-2015)
   
 Skills
 ======
