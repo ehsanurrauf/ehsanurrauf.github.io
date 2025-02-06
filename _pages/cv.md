@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Master of Social Science in Economics, [East West University](https://www.ewubd.edu/)
-* Bachelor of Social Science in Economics, [East West University](https://www.ewubd.edu/)
+* Master of Social Science in Economics, [East West University](https://www.ewubd.edu/), Bangladesh
+* Bachelor of Social Science in Economics, [East West University](https://www.ewubd.edu/), Bangladesh
 
 Work experience
 ======
