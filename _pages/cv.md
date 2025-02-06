@@ -28,31 +28,9 @@ Software Skills
 ======
 Microsoft Office, STATA, R, EViews, SPSS and LaTeX  
 
-#* Proficient in statistical and econometric software such as STATA,R, Eviews and SPSS
-#* Proficient in MS Office Applications and LaTeX
-#* Skill 2
- # * Sub-skill 2.1
-  #* Sub-skill 2.2
-  #* Sub-skill 2.3
-#* Skill 3
+Language
+======
+* English (Full professional proficiency)
+* Bengali (Native)
 
-#Publications
-#======
- # <ul>{% for post in site.publications reversed %}
-  #  {% include archive-single-cv.html %}
-  #{% endfor %}</ul>
-  
-#Talks
-#======
- # <ul>{% for post in site.talks reversed %}
-  #  {% include archive-single-talk-cv.html  %}
-  #{% endfor %}</ul>
-  
-#Teaching
-#======
- #  {% include archive-single-cv.html %}
- # {% endfor %}</ul>
-  
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
+
