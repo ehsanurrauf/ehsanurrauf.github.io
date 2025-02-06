@@ -1,3 +1,6 @@
+I am a Senior Lecturer at East West University, with a passion for teaching and research. My primary research interest lie in empirical macroeconomics, agricultural and resource economics. I am open to research collboration and aim to contribute meaningfully to the academic and professional community through my work.
+
+
 ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
