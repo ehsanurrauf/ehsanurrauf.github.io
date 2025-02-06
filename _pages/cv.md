@@ -16,20 +16,13 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Senior Lecturer, [East West University](https://www.ewubd.edu/) (2019-Present)
+* Senior Lecturer, Metropolitan University (2018-2019)
+* Lecturer, Metropolitan University (2017-2018)
+* Research Associate, Centre for Policy Dialogue, Bangladesh (2016)
+* Research Associate, Emerging Credit Rating Limited, Bangladesh (2015)
+* Research Assistant, Bangladesh Institute of Development Studies (2014)
+* Teaching Assistant, East West University (2012-2015)
   
 Skills
 ======
