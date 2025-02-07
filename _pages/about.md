@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ehsanur Yo Yo Rauf Prince"
+title: "Ehsanur Rauf Prince"
 author_profile: true
 redirect_from: 
   - /about/
